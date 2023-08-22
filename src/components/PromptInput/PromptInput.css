@@ -1,0 +1,9 @@
+/* Style for the prompt input */
+#prompt-input {
+    flex-grow: 1;
+    overflow: auto;
+}
+
+#prompt-input:focus {
+    outline: none !important;
+}
